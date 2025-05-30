@@ -7,7 +7,29 @@ Each module is explored with detailed Markdown notes, code tracing, diagrams, an
 ---
 
 ## 📁 Project Structure
-
+spark-source-reading/
+│
+├── README.md                      # Overview (this file)
+├── core/                          # Core Spark internals (RDDs, context, scheduler)
+│   ├── RDD.md
+│   ├── SparkContext.md
+│   ├── DAGScheduler.md
+│   └── TaskScheduler.md
+│
+├── sql/                           # SQL engine internals (Catalyst, Tungsten)
+│   ├── Catalyst.md
+│   ├── LogicalPlans.md
+│   ├── Optimizer.md
+│   └── Tungsten.md
+│
+├── streaming/                     # Spark Streaming concepts and internals
+│   └── Overview.md
+│
+├── diagrams/                      # Visuals and architecture diagrams
+│   └── spark-architecture.png
+│
+└── examples/                      # Explanations of sample Spark applications
+    └── sparkpi-explained.md
 ---
 
 ## 📌 Goals
