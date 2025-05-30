@@ -7,6 +7,7 @@ Each module is explored with detailed Markdown notes, code tracing, diagrams, an
 ---
 
 ## 📁 Project Structure
+``` 
 spark-source-reading/
 │
 ├── README.md                      # Overview (this file)
@@ -30,6 +31,7 @@ spark-source-reading/
 │
 └── examples/                      # Explanations of sample Spark applications
     └── sparkpi-explained.md
+```
 ---
 
 ## 📌 Goals
