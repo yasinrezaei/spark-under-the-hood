@@ -99,7 +99,7 @@ This is a personal learning project. Feel free to fork, star, or suggest improve
 
 ## 🧑‍💻 Author
 
-Maintained by [YourNameHere](https://github.com/YourGitHubUsername)
+Maintained by [Yasin Rezaei](https://github.com/yasinrezaei)
 
 ---
 
