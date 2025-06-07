@@ -92,7 +92,7 @@ If you're a:
 
 Visual aids are in the `diagrams/` folder. For example:
 
-![Spark Architecture](diagrams/spark-architecture.png)
+![Cluster Overview](diagrams/cluster-overview.png)
 
 ---
 
