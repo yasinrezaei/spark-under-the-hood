@@ -59,9 +59,3 @@ It's used internally when a user calls `SparkContext.parallelize()`.
 
 ---
 
-## 📌 TODO / Follow-Up
-
-- [x] Try using `parallelize(1 to 1000)` in a Spark shell and observe how partitions are created.
-- [ ] Confirm behavior when collection size < numSlices.
-- [ ] Explore performance implications of large collections vs partitions.
-

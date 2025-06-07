@@ -138,9 +138,3 @@ This file defines the abstract class `RDD[T]`, which represents a **Resilient Di
 
 ---
 
-## 📌 TODO / Follow-Up
-
-- [x] Trace how `map()` creates a `MapPartitionsRDD`
-- [x] Understand how `compute()` is executed by the `Executor`
-- [ ] Add a sequence diagram from `map()` to `Task.compute()`
-- [ ] Look into how checkpointing alters the RDD DAG

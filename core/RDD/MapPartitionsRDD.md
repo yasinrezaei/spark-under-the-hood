@@ -53,8 +53,3 @@ This is one of the most commonly created RDD types in Spark’s core transformat
 
 ---
 
-## 📌 TODO / Follow-Up
-
-- [x] Trace `.map()` in a Spark program and confirm it returns a `MapPartitionsRDD`.
-- [x] Understand how `compute()` is called by `Executor`.
-- [ ] Check how Spark handles exceptions thrown inside the `f` function.
