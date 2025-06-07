@@ -1,6 +1,6 @@
 # 🔍 Deep Dive into Apache Spark Source Code
 
-Welcome to my personal deep-dive into the [Apache Spark](https://github.com/apache/spark) source code. This project is a curated, structured study of Spark’s internals — designed to help others understand its architecture, key components, and internal execution flow.
+Welcome to my personal deep-dive into the [Apache Spark](https://github.com/apache/spark) source code. This project is a structured study of Spark’s internals — designed to help others understand its architecture, key components, and internal execution flow.
 
 Each module is explored with detailed Markdown notes, code tracing, diagrams, and summaries.
 
